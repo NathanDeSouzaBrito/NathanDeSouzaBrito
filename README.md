@@ -1,8 +1,6 @@
 
 <p align="center"></p>&nbsp;
 
-
- </div>
  
 
 
@@ -16,17 +14,30 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanDeSouzaBrito&show_icons=true&theme=radical" />
 </a>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<img src="https://raw.githubusercontent.com/NathanDeSouzaBrito/NathanDeSouzaBrito/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 #### Workstation Tools:
 
