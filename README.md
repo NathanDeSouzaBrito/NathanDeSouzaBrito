@@ -19,16 +19,6 @@
 &nbsp;
 &nbsp;
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathanDeSouzaBrito&show_icons=true&theme=radical" />
-</a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -40,17 +30,20 @@
 &nbsp;
 
 #### Workstation Tools:
-
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
+</a>
+
+
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:descontraindolive@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathan-de-souza-684126287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
