@@ -1,3 +1,29 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8F0D87"/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TK-black" />
+</div>
+
+<div align="center">
+  <samp>
+    <b> 
+     Hi!
+      <br>
+      My name is Nathan, but I prefer to be addressed as TK.
+      <br>
+</div>
+<br>
+     
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNathanDeSouzaBrito&s=23&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+
+      
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8F0D87&width=900&size=23&center=true&lines=I’m+from+Brazil!;I’m+a+Front-End+Web+Developer+and;Currently+studying+Back-End+development.;Welcome+to+my+profile!" alt="Typing SVG"/>
+</div>
+
+
 
 <p align="center"></p>&nbsp;
 
@@ -14,31 +40,14 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
-&nbsp;
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
-</a>
-
 
 ## Contacts:
 
@@ -47,8 +56,21 @@
 <a href = "mailto:descontraindolive@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathan-de-souza-684126287" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
- 
+&nbsp;
 
+## My Stats:
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical&rank_icon=github" />
+</a>
+
+&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NathanDeSouzaBrito&theme=radical&card_width=478)](https://git.io/streak-stats)
+
+&nbsp;
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NathanDeSouzaBrito&theme=radical)
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
