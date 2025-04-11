@@ -19,12 +19,6 @@
       
 <br>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8F0D87&width=900&size=23&center=true&lines=I’m+from+Brazil!;I’m+a+Front-End+Web+Developer+and;Currently+studying+Back-End+development.;Welcome+to+my+profile!" alt="Typing SVG"/>
-</div>
-
-
-
 <p align="center"></p>&nbsp;
 
  
