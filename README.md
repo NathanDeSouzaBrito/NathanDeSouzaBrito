@@ -42,6 +42,7 @@
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![RADStuio](https://img.shields.io/badge/RAD_Studio-FF0000?style=for-the-badge&logo=radstudio&logoColor=white)&nbsp;
 
 &nbsp;
 
