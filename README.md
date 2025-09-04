@@ -67,7 +67,7 @@
 
 &nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NathanDeSouzaBrit&theme=radical&card_width=478)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NathanDeSouzaBrito&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=478)](https://git.io/streak-stats)
 
 &nbsp;
 
