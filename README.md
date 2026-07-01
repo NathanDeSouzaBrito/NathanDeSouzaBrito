@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8F0D87"/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TK-black" />
+  <img src="https://img.shields.io/badge/Ragnar-black" />
 </div>
 
 <div align="center">
@@ -12,9 +12,7 @@
       My name is Nathan, but I prefer to be addressed as Ragnar.
       <br>
 </div>
-<br>
-     
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNathanDeSouzaBrito&s=23&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+<br> 
 
       
 <br>
@@ -56,9 +54,6 @@
 
 ## My Stats:
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NathanDeSouzaBrito&show_icons=true&theme=radical&rank_icon=github" />
-</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDeSouzaBrito&layout=donut&theme=radical" />
